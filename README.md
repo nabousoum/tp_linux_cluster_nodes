@@ -27,3 +27,5 @@
 ![Capture d'écran 2025-01-20 100056](https://github.com/user-attachments/assets/1699e0c7-c2e9-4393-9f94-239e26ac8405)
 ![Capture d'écran 2025-01-20 095946](https://github.com/user-attachments/assets/a30161b7-f513-4db5-a6f4-278c4e125b7e)
 
+### Auteur
+👤 Seynabou SOUMARE 📧 seynabou@groupeisi.com
