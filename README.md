@@ -1,4 +1,3 @@
-![Capture d'écran 2025-01-20 123736](https://github.com/user-attachments/assets/855eae47-f88a-4c44-a17b-da2967cc6e42)
 ![Capture d'écran 2025-01-20 123445](https://github.com/user-attachments/assets/a28edfe8-f5b3-4bb3-9435-e61d01d6021e)
 ![Capture d'écran 2025-01-20 122648](https://github.com/user-attachments/assets/62f1a8fc-4b17-48cf-b7ba-06ed4bc459b7)
 ![Capture d'écran 2025-01-20 120554](https://github.com/user-attachments/assets/918b3f1e-edee-4599-b719-65d64a196c39)
@@ -26,6 +25,7 @@
 ![Capture d'écran 2025-01-20 101237](https://github.com/user-attachments/assets/63be16d9-831d-4e78-b0ca-6312a9385f62)
 ![Capture d'écran 2025-01-20 100056](https://github.com/user-attachments/assets/1699e0c7-c2e9-4393-9f94-239e26ac8405)
 ![Capture d'écran 2025-01-20 095946](https://github.com/user-attachments/assets/a30161b7-f513-4db5-a6f4-278c4e125b7e)
+![Capture d'écran 2025-01-20 123736](https://github.com/user-attachments/assets/855eae47-f88a-4c44-a17b-da2967cc6e42)
 
 ### Auteur
 👤 Seynabou SOUMARE 📧 seynabou@groupeisi.com
